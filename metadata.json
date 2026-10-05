@@ -1,0 +1,6 @@
+{
+  "name": "Stereolithography (SLA) Technical Review & Engineering Monograph",
+  "description": "Comprehensive technical monograph and interactive engineering workbench covering SLA vat photopolymerization physics, allowed materials, industrial applications, strengths, limitations, and factory integration outlook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
